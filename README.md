@@ -46,3 +46,6 @@ Default keybindings:
  Down          | Down
  Left          | Left
  Right         | Right
+
+
+ROM files of the NES console games need to be present for the code to work.
